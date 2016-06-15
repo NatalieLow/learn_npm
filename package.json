@@ -1,11 +1,11 @@
 {
   "name": "@gnatann/chat-example",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "NatalieLow"
+    "url": "git+https://github.com/NatalieLow/learn_npm.git"
   },
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
@@ -22,5 +22,9 @@
     "npm",
     "tutorial"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalieLow/learn_npm/issues"
+  },
+  "homepage": "https://github.com/NatalieLow/learn_npm#readme"
 }
